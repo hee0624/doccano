@@ -49,7 +49,7 @@ export default {
         },
         {
           id: 5,
-          text: 'MISC',
+          text: 'TIME',
           prefix_key: null,
           suffix_key: 'm',
           background_color: '#fbb028',
@@ -74,23 +74,23 @@ export default {
       ],
       currentDoc: {
         id: 8,
-        text: 'After bowling Somerset out for 83 on the opening morning at Grace Road , Leicestershire extended their first innings by 94 runs before being bowled out for 296 with England discard Andy Caddick taking three for 83 .',
+        text: '宝岛眼镜首席运营官刘冀忠告诉我们，从2019年618到双11，宝岛眼镜全国1200多家门店的5000余名门店导购及总部、经销商的2000余名工作人员共计约7000余人，已经全部开通了钉钉导购分享及分销功能。',
         annotations: [
           {
             id: 17,
             prob: 0.0,
-            label: 4,
-            start_offset: 60,
-            end_offset: 70,
+            label: 7,
+            start_offset: 9,
+            end_offset: 12,
             user: 1,
             document: 8
           },
           {
             id: 19,
             prob: 0.0,
-            label: 4,
-            start_offset: 165,
-            end_offset: 172,
+            label: 6,
+            start_offset: 0,
+            end_offset: 4,
             user: 1,
             document: 8
           },
@@ -98,26 +98,8 @@ export default {
             id: 16,
             prob: 0.0,
             label: 6,
-            start_offset: 14,
-            end_offset: 22,
-            user: 1,
-            document: 8
-          },
-          {
-            id: 18,
-            prob: 0.0,
-            label: 6,
-            start_offset: 73,
-            end_offset: 87,
-            user: 1,
-            document: 8
-          },
-          {
-            id: 20,
-            prob: 0.0,
-            label: 7,
-            start_offset: 181,
-            end_offset: 193,
+            start_offset: 31,
+            end_offset: 35,
             user: 1,
             document: 8
           }

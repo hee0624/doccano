@@ -1,8 +1,8 @@
 {
-  "name": "doccano",
+  "name": "datahorizon",
   "version": "1.0.0",
-  "description": "doccano is an open source annotation tools for machine learning practitioner.",
-  "author": "Hironsan",
+  "description": "",
+  "author": "He Chen",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore .",

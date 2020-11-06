@@ -46,13 +46,13 @@ export default {
         annotations: [
           {
             id: 17,
-            text: "S'il ne m'avait pas aidé, j'aurais échoué.",
+            text: "如果没有他的帮助，我就失败了。",
             user: 1,
             document: 8
           },
           {
             id: 18,
-            text: "S'il ne m'avait pas aidée, j'aurais échoué.",
+            text: "如果不是他的帮助，我就失败了。",
             user: 1,
             document: 8
           }

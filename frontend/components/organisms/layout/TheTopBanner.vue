@@ -19,7 +19,7 @@
             {{ $t('home.mainTitle') }}
           </h1>
           <div class="mt-4">
-            <v-btn
+            <!-- <v-btn
               large
               outlined
               color="white"
@@ -29,7 +29,7 @@
                 mdi-github
               </v-icon>
               GitHub
-            </v-btn>
+            </v-btn>  -->
             <v-btn
               class="blue lighten-2 ml-5"
               dark

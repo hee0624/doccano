@@ -42,7 +42,7 @@ export default {
       items: [
         {
           id: 4,
-          text: 'Positive',
+          text: '正向',
           prefix_key: null,
           suffix_key: 'p',
           background_color: '#7c20e0',
@@ -50,7 +50,7 @@ export default {
         },
         {
           id: 5,
-          text: 'Negative',
+          text: '消极',
           prefix_key: null,
           suffix_key: 'n',
           background_color: '#fbb028',
@@ -59,12 +59,12 @@ export default {
       ],
       currentDoc: {
         id: 8,
-        text: 'Fair drama/love story movie that focuses on the lives of blue collar people finding new life thru new love. The acting here is good but the film fails in cinematography, screenplay, directing and editing. The story/script is only average at best. This film will be enjoyed by Fonda and De Niro fans and by people who love middle age love stories where in the coartship is on a more wiser and cautious level. It would also be interesting for people who are interested on the subject matter regarding illiteracy.......',
+        text: '铁矿石进口量之所以上涨是因为国内铁矿石产能十分不足。',
         annotations: [
           {
             id: 17,
             prob: 0.0,
-            label: 4,
+            label: 5,
             user: 1,
             document: 8
           }

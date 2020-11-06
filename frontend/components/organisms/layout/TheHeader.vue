@@ -15,7 +15,7 @@
       v-if="!isAuthenticated"
       class="ml-2 d-none d-sm-flex"
     >
-      doccano
+     数据标注平台
     </v-toolbar-title>
     <v-btn
       v-if="isAuthenticated && isIndividualProject"

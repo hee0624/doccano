@@ -46,7 +46,7 @@ export default {
         annotations: [
           {
             id: 17,
-            text: 'How many heads of the departments are older than 56 ?',
+            text: '有多少部门的领导年龄超过56岁？',
             user: 1,
             document: 8
           }
