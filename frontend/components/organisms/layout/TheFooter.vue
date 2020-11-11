@@ -15,7 +15,7 @@
         white--text
         xs12
       >
-        &copy; {{ new Date().getFullYear() }} 数据地平线（广州）科技有线公司
+        &copy; {{ new Date().getFullYear() }} 数据地平线（广州）科技有限公司
       </v-flex>
     </v-layout>
   </v-footer>
